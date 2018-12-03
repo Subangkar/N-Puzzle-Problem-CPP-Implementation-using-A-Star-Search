@@ -47,6 +47,7 @@ Procedure to run this Implementation:
     You can open the whole folder as a CLion Project.  
   
 **Step 3**:  
+  
     You will find the output in "out.txt".  
   
   
